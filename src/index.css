@@ -1,0 +1,28 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.head{
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: capitalize;
+  text-shadow: 0px 2px 4px red;
+}
+.body1{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  height: 200px;
+}
+.body2{
+  display:block;
+  align-items:center;
+  justify-content: center;
+  margin-left: 600px;
+}
+#gmt{
+  margin-left: -75px;
+}
